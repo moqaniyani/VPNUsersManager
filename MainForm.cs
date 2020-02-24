@@ -129,6 +129,7 @@ namespace MiFaVPN
 
         private void MainForm_Load(object sender, EventArgs e)
         {
+            //select first item on the combobox
             cbUserGroups.SelectedIndex = 0;
 
             WindowsIdentity identity = WindowsIdentity.GetCurrent();
