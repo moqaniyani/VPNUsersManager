@@ -5,10 +5,10 @@ An application that can help you to manage users of a windows server VPN
 
 <h2>Step 1:</h2>
 <p>You need to create groups on the VPN Server ad local groups:
-VPN 1M
-VPN 3M
-VPN 6M
-VPN 12M
+VPN 1M</br>
+VPN 3M</br>
+VPN 6M</br>
+VPN 12M</br>
 VPN Unlimit</p>
 <h2>Step 2:<h2>
 <p>When you are configuring NPS on Routing and Remote Access add the groups to access to the VPN service.</p>
