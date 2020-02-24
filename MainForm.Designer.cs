@@ -1,4 +1,4 @@
-﻿namespace MiFaVPN
+﻿namespace VPNUserManager
 {
     partial class MainForm
     {

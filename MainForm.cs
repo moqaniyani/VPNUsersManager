@@ -15,7 +15,7 @@ using System.Windows.Forms;
 
 //This is my first commit
 
-namespace MiFaVPN
+namespace VPNUserManager
 {
     public partial class MainForm : Form
     {
