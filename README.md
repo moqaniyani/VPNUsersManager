@@ -4,7 +4,7 @@ An application that can help you to manage users of a windows server VPN
 <h1>How to use?</h1>
 
 <h2>Step 1:</h2>
-<p>You need to create groups on the VPN Server ad local groups:
+<p>You need to create groups on the VPN Server ad local groups:</br>
 VPN 1M</br>
 VPN 3M</br>
 VPN 6M</br>
