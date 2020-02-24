@@ -112,6 +112,7 @@ namespace MiFaVPN
 
             
             //at first i added admins of the server manually, at next i want load from administators group
+            //issue link : https://github.com/moqaniyani/VPNUsersManager/issues/1#issue-569691445
             admins = new Dictionary<string, string>();
             admins.Add("Milad Moqaniyani", "میلاد");
             admins.Add("Farhad Sabzehban", "فرهاد");
